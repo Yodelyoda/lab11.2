@@ -1,0 +1,4 @@
+﻿  lab11.2.cpp
+C:\Users\Yoda\source\repos\lab11.2\lab11.2.cpp(35): warning C4101: 'N': unreferenced local variable
+C:\Users\Yoda\source\repos\lab11.2\lab11.2.cpp(239): warning C4101: 'cw': unreferenced local variable
+  lab11.2.vcxproj -> C:\Users\Yoda\source\repos\lab11.2\Debug\lab11.2.exe
